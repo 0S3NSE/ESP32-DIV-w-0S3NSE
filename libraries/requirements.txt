@@ -1,0 +1,8 @@
+RF24
+NimBLE-Arduino
+rc-switch
+XPT2046_Touchscreen
+arduinoFFT
+TFT_eSPI
+SmartRC-CC1101-Driver-Lib
+PCF8574
